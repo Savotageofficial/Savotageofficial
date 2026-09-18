@@ -19,7 +19,6 @@
 - 🎓 Studying **Software Engineering** at Helwan University / Capital University (2024–present)
 - 💻 Building **native Android apps** with Kotlin, Jetpack Compose, and Firebase
 - 🐍 Building **backends** with Django and FastAPI
-- 📖 Writing *The Seven Nations*, a fantasy/alternate-history serial novel — with its own worldbuilding wiki
 - 🚀 Open to **freelance work, remote roles, and collaboration**
 
 ---
