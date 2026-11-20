@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer · Android Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=7F7F7F&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+Engineer+(Kotlin+%2B+Compose);Django+%2F+FastAPI+Backends;Building+The+Seven+Nations+%F0%9F%93%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=7F7F7F&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+Engineer+(Kotlin+%2B+Compose);Django+%2F+FastAPI+Backends" alt="Typing SVG" />
 </p>
 
 <p align="center">
